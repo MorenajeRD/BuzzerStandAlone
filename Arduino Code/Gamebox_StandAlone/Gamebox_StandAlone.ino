@@ -1,5 +1,4 @@
-//www.elegoo.com
-//2016.12.8
+// GameBox StandAlone 
 
 // Leds
 //
