@@ -1,0 +1,8 @@
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\alerta.wav
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\sonido-demo.mp3
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\GameShow.exe
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\GameShow.dll
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\GameShow.deps.json
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\GameShow.runtimeconfig.json
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\GameShow.pdb
+C:\Users\sigma\source\repos\GameShow\GameShow\bin\Release\net8.0-windows\win-x64\app.publish\System.IO.Ports.dll

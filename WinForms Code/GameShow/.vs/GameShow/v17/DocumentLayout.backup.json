@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|c:\\projects\\buzzerstandalone\\winforms code\\gameshow\\gameshow\\gameshowmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|solutionrelative:gameshow\\gameshowmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\gameshow\\gameshowmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|solutionrelative:gameshow\\gameshowmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|c:\\projects\\buzzerstandalone\\winforms code\\gameshow\\gameshow\\gameshowmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|solutionrelative:gameshow\\gameshowmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|c:\\projects\\buzzerstandalone\\winforms code\\gameshow\\gameshow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948F760-B86F-46D3-BE55-3DF3BDB8B263}|GameShow\\GameShow.csproj|solutionrelative:gameshow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\Program.cs",
+              "RelativeDocumentMoniker": "GameShow\\Program.cs",
+              "ToolTip": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\Program.cs",
+              "RelativeToolTip": "GameShow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T21:36:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameShowMain.Designer.cs",
+              "DocumentMoniker": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\GameShowMain.Designer.cs",
+              "RelativeDocumentMoniker": "GameShow\\GameShowMain.Designer.cs",
+              "ToolTip": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\GameShowMain.Designer.cs",
+              "RelativeToolTip": "GameShow\\GameShowMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:45:04.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameShowMain.cs",
+              "DocumentMoniker": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\GameShowMain.cs",
+              "RelativeDocumentMoniker": "GameShow\\GameShowMain.cs",
+              "ToolTip": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\GameShowMain.cs",
+              "RelativeToolTip": "GameShow\\GameShowMain.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T02:08:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameShowMain.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\BuzzerStandAlone\\WinForms Code\\GameShow\\GameShow\\GameShowMain.cs",
+              "RelativeDocumentMoniker": "GameShow\\GameShowMain.cs",
+              "ToolTip": "C:\\Users\\sigma\\source\\repos\\GameShow\\GameShow\\GameShowMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\sigma\\source\\repos\\GameShow\\GameShow\\GameShowMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T02:07:20.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
